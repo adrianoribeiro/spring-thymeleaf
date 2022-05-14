@@ -1,8 +1,8 @@
-# Spring MVC e Thymeleaf
+# Spring MVC and Thymeleaf
 
-Simples crud que integra o Spring MVC ao template Thymeleaf em substituição à JSTL e assim, ter um código mais limpo em suas páginas HTML, fazendo uso de seus componentes para o processo de manipulação de dados no lado cliente de sua aplicação web.
+Simples crud example.
 
-### Tecnologias:
+### Tech/Framewors:
 * Spring MVC;
 * JPA;
 * Thymeleaf;
@@ -10,8 +10,8 @@ Simples crud que integra o Spring MVC ao template Thymeleaf em substituição à
 * MySQL;
 * Bootstrap;
 
-### Sugestão para rodar
+### To run
 tomcat7:run-war
 
-#### Fonte
+#### Source
 Primeiros passos com Spring MVC e Thymeleaf (Devmedia)
